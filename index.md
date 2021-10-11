@@ -1,7 +1,7 @@
 ![Image](https://github.com/pheonixu/Xiang-Xu/blob/gh-pages/photo/xu.jpg)
 
 ## Personal Information
-- Name: Xiang XU
+- Name: Xiang XU (徐翔)
 - Gender: Male
 - Date of Birth: Apr., 1992
 - Phone: +86-15050589021
