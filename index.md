@@ -1,4 +1,4 @@
-![Image](Xu.jpg)
+![Image](xu.jpg)
 
 ## Personal Information
 - Name: Xiang XU
