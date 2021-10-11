@@ -1,4 +1,4 @@
-![Image](https://github.com/pheonixu/Xiang-Xu/blob/gh-pages/photo/xu.jpg)
+![Image](https://github.com/pheonixu/pheonixu.github.io/blob/gh-pages/photo/xu.jpg)
 
 ## Personal Information
 - Name: Xiang XU (徐翔)
